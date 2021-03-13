@@ -1,0 +1,107 @@
+body {
+  background-color: #f5f4f4;
+}
+.sub-body {
+  color: #ffff;
+  width: 70%;
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.box1 {
+  display: inline-block;
+  width: 775px;
+  height: 525px;
+}
+.top1 {
+  position: relative;
+  top: 75px;
+  background-color: hsl(263, 55%, 52%);
+  display: inline-block;
+  width: 500px;
+  height: 250px;
+  border-radius: 10px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.top2 {
+  position: relative;
+  top: 75px;
+  background-color: hsl(217, 19%, 35%);
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  float: right;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bottom1 {
+  width: 250px;
+  height: 250px;
+  background-color: white;
+  border-radius: 10px;
+  float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bottom2 {
+  display: inline-block;
+  width: 500px;
+  height: 250px;
+  background-color: #152a38;
+  border-radius: 10px;
+  margin-left: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box2 {
+  display: inline-block;
+  width: 250px;
+  height: 525px;
+  background-color: #f9fcfb;
+  border-radius: 10px;
+  margin-left: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.content {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  padding: 20px;
+}
+.content1 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  padding: 20px;
+  position: relative;
+  bottom: 100px;
+}
+.content_w {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  padding: 20px;
+  color: #393e46;
+}
+p {
+  font-weight: 600;
+  margin: 0;
+}
+h6 {
+  font-weight: lighter;
+  margin: 0;
+  position: relative;
+  left: 10px;
+}
+p1 {
+  font-weight: bolder;
+  opacity: 0.7;
+  font-size: 13px;
+}
+span {
+  opacity: 0.5;
+}
+img {
+  height: 20px;
+  width: 20px;
+  border: 1px solid #8675a9;
+  float: left;
+  border-radius: 50%;
+}
+svg {
+  position: relative;
+  left: 300px;
+}

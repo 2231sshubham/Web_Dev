@@ -1,0 +1,65 @@
+body{
+  background-image: url(http://www.baltana.com/files/wallpapers-5/Blue-Background-Wallpaper-HD-16273.jpg);
+  text-align: center;
+}
+hr {
+  position: relative;
+  bottom: 150px;
+  color: #b7b7a4
+}
+img {
+  border: 6px solid #ffff;
+  padding: 2px;
+  position: relative;
+  bottom: 20px;
+  margin: 100px auto 0;
+  width: 30%;
+  border-radius: 50%;
+}
+.follower {
+  padding-right: 20px;
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+  right: 20px;
+  width: 50px;
+  font-size: 1.2rem;
+}
+.likes {
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+  width: 50px;
+  font-size: 1.2rem;
+}
+.photos {
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+  left: 20px;
+  width: 50px;
+  font-size: 1.2rem;
+}
+.sub {
+  background-image: url(http://3.bp.blogspot.com/-TYp7kUmHsAE/VCAZ_XrdiYI/AAAAAAAAENg/YCbE4NR9d_8/s1600/Photo%2BSep%2B14%2C%2B9%2B08%2B56%2BAM.jpg);
+  height: 40%;
+  border-radius: 10px;
+}
+.profile {
+  margin: 100px auto 100px;
+  background-color: white;
+  border-radius: 10px;
+  width: 300px;
+  height: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.other_sub {
+  width: 70%;
+  margin: 100px auto 0;
+  position: relative;
+  bottom: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+span {
+  color: #b7b7a4;
+}
