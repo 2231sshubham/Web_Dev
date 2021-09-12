@@ -1,2 +1,2 @@
-# web_dev-practice
-Some HTML &amp; CSS challenges
+# Web_dev-practice
+HTML,CSS & JS challenges and projects build along.
